@@ -13,7 +13,7 @@
 
 ## My Github Stats
 
- [!Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineblinks&show_icons=true&theme=radical)!
+ !Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineblinks&show_icons=true&theme=radical)!
  
 
 
