@@ -1,5 +1,4 @@
-## Hi, I am Faith Pueneh 👋.
----------------------------------------
+# Hi, I am Faith Pueneh 👋.
 #### I am front-end developer and technical writer. 
 
 - 🌱 I’m currently learning: Svelte, Material Design.
