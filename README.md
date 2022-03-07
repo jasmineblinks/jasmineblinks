@@ -1,10 +1,11 @@
-### Hi, I am Faith Pueneh 👋.
+## Hi, I am Faith Pueneh 👋.
+---------------------------------------
 #### I am front-end developer and technical writer. 
 
 - 🌱 I’m currently learning: Svelte, Material Design.
-- - 👯 I’m looking to collaborate on any good project on fintech.
-- - 💬 Ask me about Css, Javascript,React,Next and Technical writing
-- - 😄 Pronouns: She/Her ...
+-  👯 I’m looking to collaborate on any good project on fintech.
+- 💬 Ask me about Css, Javascript,React,Next and Technical writing
+- 😄 Pronouns: She/Her ...
 <!--
 **jasmineblinks/jasmineblinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
