@@ -1,6 +1,6 @@
 # Hi, I am Faith Pueneh 👋.
 ### I am front-end developer and technical writer. 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)] ![gmail](https://img.shields.io/badge/Gmail-ff0000?style=for-the-badge&logo=Gmail&logoColor=white)]
 
 - 🌱 I’m currently learning: Semantic UI, Material Design.
 -  👯 I’m looking to collaborate on any good project on fintech.
