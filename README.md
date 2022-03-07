@@ -12,7 +12,7 @@
 
 ## Technology Stack
 
- ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white) ![git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white)
+ ![html](https://img.shields.io/badge/Html-red?style=for-the-badge&logo=Html5&logoColor=white) ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css3&logoColor=white)  ![javascript](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=Javascript&logoColor=black) ![react](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white) ![git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
 ## My Github Stats
 
