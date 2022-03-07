@@ -1,10 +1,12 @@
 # Hi, I am Faith Pueneh 👋.
-#### I am front-end developer and technical writer. 
+### I am front-end developer and technical writer. 
+![<gmail>](https://img.shields.io/badge/<Gmail>-<red>?style=for-the-badge&logo=<Gmail>&logoColor=<#fff>)
 
-- 🌱 I’m currently learning: Svelte, Material Design.
+- 🌱 I’m currently learning: Semantic UI, Material Design.
 -  👯 I’m looking to collaborate on any good project on fintech.
-- 💬 Ask me about Css, Javascript,React,Next and Technical writing
-- 😄 Pronouns: She/Her ...
+- 💬 Ask me about Css, Javascript,React.js,Next.js and Technical writing.
+- 😄 Pronouns: She/Her.
+- - 📫 How to reach me: ...
 <!--
 **jasmineblinks/jasmineblinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
