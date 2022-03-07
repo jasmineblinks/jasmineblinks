@@ -13,7 +13,7 @@
 
 ## My Github Stats
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasmineblinks&theme=navy-gear)](https://git.io/streak-stats) ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineblinks&show_icons=true&theme=solarized-light)
+ <div style="width:400px"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jasmineblinks&theme=navy-gear)](https://git.io/streak-stats) ![Jasmineblinks's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmineblinks&show_icons=true&theme=solarized-light)</div>
  
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasmineblinks&layout=compact)](https://github.com/jasmineblinks/github-readme-stats) 
