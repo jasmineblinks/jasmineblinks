@@ -12,7 +12,7 @@
 
 ## Technology Stack
 
-![git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white)]
+ ![css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=Css&logoColor=white) ![git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=Git&logoColor=white)
 
 ## My Github Stats
 
